@@ -17,7 +17,7 @@ This summer, your job as an RA will be to help collect data on relevant courses 
 ### Getting Set Up
 1. Clone this repository on GitHub using `git clone <url>`
 2. Work through the [example course catalog crawler](example_course_catalog_crawler.ipynb)
-3. Reproduce the crawler for all universities in the sample list
+3. Reproduce the crawler for all universities in the [sample list](sample_V1.csv)
 #### Helpful Libraries
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [NLTK](https://www.nltk.org/)

@@ -1,12 +1,12 @@
 Finished Scrubbing,Index,UNITID,School Name,Course Catalog Status,Note(s)
-No,1,228723,Texas A & M University-College Station,,
+Ongoing - S,1,228723,Texas A & M University-College Station,,
 No ,2,236939,Washington State University,Other - PDF Website Hybrid,"Corses differ by campus, do we search through all campus's or just the main one? https://www.catalog.wsu.edu/ "
 No ,3,178396,University of Missouri-Columbia,,
 No,4,176017,University of Mississippi,Website,https://catalog.olemiss.edu/
 No,5,131496,Georgetown University,,
 No,6,209542,Oregon State University,Website,https://catalog.oregonstate.edu/courses/
 No,7,104179,University of Arizona,,
-No,8,190150,Columbia University in the City of New York,Website,http://bulletin.columbia.edu/columbia-college/departments-instruction/
+Ongoing - S,8,190150,Columbia University in the City of New York,Website,http://bulletin.columbia.edu/columbia-college/departments-instruction/
 No,9,110680,University of California-San Diego,,
 No,10,126818,Colorado State University-Fort Collins,Website,Need to make sure this is specifically for Fort Collins. http://catalog.colostate.edu/general-catalog/courses-az/
 No,11,195030,University of Rochester,,
@@ -17,7 +17,7 @@ No,15,155399,Kansas State University,,
 No,16,187985,University of New Mexico-Main Campus,Website,Need to make sure this is specifically for the main campus. http://catalog.unm.edu/catalogs/2019-2020/courses/index.html
 No,17,110705,University of California-Santa Barbara,,
 No,18,110714,University of California-Santa Cruz,Website,Scrolled down till you see 'Course Descriptions' on the left-side bar. https://registrar.ucsc.edu/catalog/programs-courses/course-descriptions/index.html
-No,19,164988,Boston University,,
+Ongoing - S,19,164988,Boston University,,
 No,20,147767,Northwestern University,Other - PDF Website Hybrid,PDF - https://www.registrar.northwestern.edu/documents/registration/catalog-archive/2017-18_NU_Undergraduate_Catalog.pdf                                     Website - https://www.northwestern.edu/class-descriptions/
 No,21,227757,Rice University,,
 No,22,110671,University of California-Riverside,Website - Very bad structure,https://registrationssb.ucr.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search
@@ -92,7 +92,7 @@ No,90,102298,Talladega College,Other - Archived PDFs,http://www.talladega.edu/ac
 No,91,227854,St Philip's College,,
 No,92,220604,Le Moyne-Owen College,Other - Archived PDFs,https://www.loc.edu/academics/course-catalog-and-curriculum/
 No,93,163453,Morgan State University,,
-Ongoing,94,198756,Johnson C Smith University,Website,https://my.jcsu.edu/ICS/Students/Student_Resources/Default_Page.jnz?portlet=Course_Search
+Ongoing - B,94,198756,Johnson C Smith University,Website,https://my.jcsu.edu/ICS/Students/Student_Resources/Default_Page.jnz?portlet=Course_Search
 No,95,106306,Arkansas Baptist College,,
 No,96,156541,University of the Cumberlands,Other - Archived PDFs,Special PDF viewer - different fom standard. https://www.ucumberlands.edu/academics/academic-catalog/archive
 No,97,220710,Maryville College,,

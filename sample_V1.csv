@@ -1,101 +1,101 @@
-UNITID,INSTNM,LINK1,LINK2,NOTE
-228723,Texas A & M University-College Station,,,
-236939,Washington State University,,,
-178396,University of Missouri-Columbia,,,
-176017,University of Mississippi,,,
-131496,Georgetown University,,,
-209542,Oregon State University,,,
-104179,University of Arizona,,,
-190150,Columbia University in the City of New York,http://www.columbia.edu/cu/bulletin/uwb/,,Only 2019 data is available
-110680,University of California-San Diego,,,
-126818,Colorado State University-Fort Collins,,,
-195030,University of Rochester,,,
-196088,University at Buffalo,,,
-225511,University of Houston,,,
-132903,University of Central Florida,,,
-155399,Kansas State University,,,
-187985,University of New Mexico-Main Campus,,,
-110705,University of California-Santa Barbara,,,
-110714,University of California-Santa Cruz,,,
-164988,Boston University,https://compass-ssb.tamu.edu/pls/PROD/bwckschd.p_disp_dyn_sched,,Search course description for Fall 2019 and future semesters
-147767,Northwestern University,,,
-227757,Rice University,,,
-110671,University of California-Riverside,,,
-134097,Florida State University,,,
-211440,Carnegie Mellon University,,,
-100663,University of Alabama at Birmingham,,,
-110662,University of California-Los Angeles,,,
-123961,University of Southern California,,,
-110635,University of California-Berkeley,,,
-104151,Arizona State University-Tempe,,,
-157085,University of Kentucky,,,
-100858,Auburn University,,,
-133669,Florida Atlantic University,,,
-196079,Binghamton University,,,
-127060,University of Denver,,,
-149222,Southern Illinois University-Carbondale,,,
-145813,Illinois State University,,,
-206084,University of Toledo,,,
-180489,The University of Montana,,,
-207971,University of Tulsa,,,
-176080,Mississippi State University,,,
-147536,National Louis University,,,
-142276,Idaho State University,,,
-200697,Air Force Institute of Technology-Graduate School of Engineering & Management,,,
-110316,California Institute of Integral Studies,,,
-195809,St John's University-New York,,,
-139931,Georgia Southern University,,,
-437097,University of Management and Technology,,,
-219976,Lipscomb University,,,
-174914,University of St Thomas,,,
-195003,Rochester Institute of Technology,,,
-482158,Middle Georgia State University,,,
-468024,South University-Novi,,,
-168281,Wheaton College,,,
-140553,Morehouse College,,,
-245652,St. John's College,,,
-154855,Central Christian College of Kansas,,,
-143084,Augustana College,,,
-459268,South UniversityVirginia Beach,,,
-458973,Strayer University-Texas,,,
-206491,Wilberforce University,,,
-233301,Randolph College,,,
-198215,Catawba College,,,
-130697,Wesleyan University,,,
-154527,Wartburg College,,,
-112260,Claremont McKenna College,,,
-484701,University of Phoenix-Missouri,,,
-214731,Pennsylvania State University-Penn State Brandywine,,,
-209065,Linfield College-McMinnville Campus,,,
-199607,Salem College,,,
-207689,St. Gregory's University,,,
-157331,Maysville Community and Technical College,,,
-214111,Montgomery County Community College,,,
-240693,Western Wyoming Community College,,,
-366395,Suffolk County Community College,,,
-453473,American National University-Cincinnati,,,
-204440,Northwest State Community College,,,
-126401,Altierus Career College-Colorado Springs,,,
-483212,Louisiana Delta Community College,,,
-436429,Los Angeles Film School,,,
-117645,Long Beach City College,,,
-101675,Miles College,,,
-228486,Southwestern Christian College,,,
-158802,Dillard University,,,
-199643,Shaw University,,,
-217721,Benedict College,,,
-102270,Stillman College,,,
-220598,Lane College,,,
-217873,Claflin University,,,
-218399,Morris College,,,
-102298,Talladega College,,,
-227854,St Philip's College,,,
-220604,Le Moyne-Owen College,,,
-163453,Morgan State University,,,
-198756,Johnson C Smith University,,,
-106306,Arkansas Baptist College,,,
-156541,University of the Cumberlands,,,
-220710,Maryville College,,,
-131098,Wesley College,,,
-202514,Defiance College,,,
-152381,Saint Mary-of-the-Woods College,,,
+UNITID,INSTNM
+228723,Texas A & M University-College Station
+236939,Washington State University
+178396,University of Missouri-Columbia
+176017,University of Mississippi
+131496,Georgetown University
+209542,Oregon State University
+104179,University of Arizona
+190150,Columbia University in the City of New York
+110680,University of California-San Diego
+126818,Colorado State University-Fort Collins
+195030,University of Rochester
+196088,University at Buffalo
+225511,University of Houston
+132903,University of Central Florida
+155399,Kansas State University
+187985,University of New Mexico-Main Campus
+110705,University of California-Santa Barbara
+110714,University of California-Santa Cruz
+164988,Boston University
+147767,Northwestern University
+227757,Rice University
+110671,University of California-Riverside
+134097,Florida State University
+211440,Carnegie Mellon University
+100663,University of Alabama at Birmingham
+110662,University of California-Los Angeles
+123961,University of Southern California
+110635,University of California-Berkeley
+104151,Arizona State University-Tempe
+157085,University of Kentucky
+100858,Auburn University
+133669,Florida Atlantic University
+196079,Binghamton University
+127060,University of Denver
+149222,Southern Illinois University-Carbondale
+145813,Illinois State University
+206084,University of Toledo
+180489,The University of Montana
+207971,University of Tulsa
+176080,Mississippi State University
+147536,National Louis University
+142276,Idaho State University
+200697,Air Force Institute of Technology-Graduate School of Engineering & Management
+110316,California Institute of Integral Studies
+195809,St John's University-New York
+139931,Georgia Southern University
+437097,University of Management and Technology
+219976,Lipscomb University
+174914,University of St Thomas
+195003,Rochester Institute of Technology
+482158,Middle Georgia State University
+468024,South University-Novi
+168281,Wheaton College
+140553,Morehouse College
+245652,St. John's College
+154855,Central Christian College of Kansas
+143084,Augustana College
+459268,South UniversityVirginia Beach
+458973,Strayer University-Texas
+206491,Wilberforce University
+233301,Randolph College
+198215,Catawba College
+130697,Wesleyan University
+154527,Wartburg College
+112260,Claremont McKenna College
+484701,University of Phoenix-Missouri
+214731,Pennsylvania State University-Penn State Brandywine
+209065,Linfield College-McMinnville Campus
+199607,Salem College
+207689,St. Gregory's University
+157331,Maysville Community and Technical College
+214111,Montgomery County Community College
+240693,Western Wyoming Community College
+366395,Suffolk County Community College
+453473,American National University-Cincinnati
+204440,Northwest State Community College
+126401,Altierus Career College-Colorado Springs
+483212,Louisiana Delta Community College
+436429,Los Angeles Film School
+117645,Long Beach City College
+101675,Miles College
+228486,Southwestern Christian College
+158802,Dillard University
+199643,Shaw University
+217721,Benedict College
+102270,Stillman College
+220598,Lane College
+217873,Claflin University
+218399,Morris College
+102298,Talladega College
+227854,St Philip's College
+220604,Le Moyne-Owen College
+163453,Morgan State University
+198756,Johnson C Smith University
+106306,Arkansas Baptist College
+156541,University of the Cumberlands
+220710,Maryville College
+131098,Wesley College
+202514,Defiance College
+152381,Saint Mary-of-the-Woods College

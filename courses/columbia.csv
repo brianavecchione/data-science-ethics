@@ -1,24 +1,24 @@
-,keyword,term,title,university
-325,"power,technolog",Fall 2019,TECHNOLOGY AND POWER IN MODERN CHINA,columbia university
-343,"religi,technolog",Fall 2019,"TECHNOLOGY,RELIGION,FUTURE",columbia university
-464,"polic,technolog",Fall 2019,"INTERNET TECHNOLOGY,ECONOMICS,AND POLICY",columbia university
-756,"law,technolog",Spring 2019,BIOTECHNOLOGY LAW,columbia university
-358,secur,Fall 2019,NAT SECURITY STRAT OF MID EAST,columbia university
-359,secur,Fall 2019,SECURITY ANALYSIS,columbia university
-360,secur,Fall 2019,SECURITY II,columbia university
-361,secur,Fall 2019,SECURITIES REGULATION,columbia university
-362,secur,Fall 2019,INT'L SECURITIES REGULATION,columbia university
-363,secur,Fall 2019,RE DEBT SECURITIZATION,columbia university
-364,secur,Fall 2019,ENTERPR INFO SECURITY: THREATS & DEFENSE,columbia university
-530,secur,Summer 2019,SECURITY ANALYSIS,columbia university
-531,secur,Summer 2019,EAST ASIAN SECURITY,columbia university
-532,secur,Summer 2019,ENTERPR INFO SECURITY: THREATS & DEFENSE,columbia university
-533,secur,Summer 2019,CYBERSECURITY STRAT & EXECUTIVE RESPONSE,columbia university
-852,privac,Spring 2019,PRIVACY IN A NETWORKED WORLD,columbia university
-879,secur,Spring 2019,SECURITY ANALYSIS,columbia university
-880,secur,Spring 2019,SECURITY I,columbia university
-881,secur,Spring 2019,SECURITIES REGULATION,columbia university
-882,secur,Spring 2019,NATIONAL SECURITY LAW,columbia university
-883,secur,Spring 2019,S NAT'L SECURITY INVEST & PROS,columbia university
-884,secur,Spring 2019,"GLOBAL FOOD SECURITY, GLOBAL OCEANS, AND",columbia university
-885,secur,Spring 2019,ENTERPR INFO SECURITY: THREATS & DEFENSE,columbia university
+,keyword,term,title,university,dept_num,credits,instructor,syllabus,description
+325,"power,technolog",Fall 2019,TECHNOLOGY AND POWER IN MODERN CHINA,columbia university,East Asian UN3971 ,4,Jian Ming C Chang,https://vergil.registrar.columbia.edu/#/courses/EAASW3971_001_2019_1,"Any introductory level course on China or East Asia. Undergraduate seminar addressing the intersection of technology and politics in the history of modern China, from the 19th century to the present. Main themes include technocratic management of land and environment, scientific representation of nature and Chinese society, and socialist approaches to mass organization and surveillance."
+343,"religi,technolog",Fall 2019,"TECHNOLOGY,RELIGION,FUTURE",columbia university,Religion GU4616,4,David R Kittay,https://vergil.registrar.columbia.edu/#/courses/RELIW4616_001_2019_1,"This seminar will examine the history of the impact of technology and media on religion and vice versa before bringing into focus the main event: religion today and in the future. We'll read the classics as well as review current writing, video and other media, bringing thinkers such as Eliade, McLuhan, Mumford and Weber into dialogue with the current writing of Kurzweil, Lanier and Taylor, and look at, among other things: ethics in a Virtual World; the relationship between Burning Man, a potential new religion, and technology; the relevance of God and The Rapture in Kurzweil's Singularity; and what will become of karma when carbon-based persons merge with silicon-based entities and other advanced technologies."
+464,"polic,technolog",Fall 2019,"INTERNET TECHNOLOGY,ECONOMICS,AND POLICY",columbia university,Computer Science W4419 ,3,Henning G Schulzrinne,https://vergil.registrar.columbia.edu/#/courses/COMSW4419_V01_2019_1,
+755,"law,technolog",Spring 2019,BIOTECHNOLOGY LAW,columbia university,Biotechnology GU4160,3,Alan J Morrison,https://vergil.registrar.columbia.edu/#/courses/BIOTW4160_001_2019_3,"Prerequisites: at least 4 college-level biology or biotechnology courses. This course will introduce students to the interrelated fields of patent law, regulatory law, and contract law that are vital to the biotech and biopharmaceutical sectors. The course will present core concepts in a way that permits students to use them throughout their corporate, academic, and government careers. SCE and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar.  http://registrar.columbia.edu/sites/default/files/content/reg-adjustment.pdf"
+358,secur,Fall 2019,NAT SECURITY STRAT OF MID EAST,columbia university,Political Science GU4845,4,Charles D Freilich,https://vergil.registrar.columbia.edu/#/courses/POLSG4845_001_2019_1,"At the crossroads of three continents, the Middle East is home to many diverse peoples, with ancient and proud cultures, in varying stages of political and socio-economic development, often in conflict. Following the Arab Spring and subsequent upheaval in Egypt, Syria, Iraq, Yemen, Libya and more, the region is in a state of historic flux. The Sunni-Shia rivalry, especially between Saudi Arabia and Iran, growing Iranian-Israeli conflict, population explosion, poverty and authoritarian control, Russian ascendance and US retrenchment, are the primary regional drivers today. Together, these factors have transformed the Middle Eastern landscape, with great consequence for the national security of the countries of the region and their foreign relations. The primary source of the world's energy resources, the Middle East remains the locus of the terror-WMD-fundamentalist nexus, which continues to pose a significant threat to both regional and international security.,The course surveys the national security challenges facing the region's primary players (Egypt, Saudi Arabia, Iran, Iraq, Syria, Lebanon, Jordan, Israel, the Palestinians and Turkey,) and how the convolutions of recent years have affected them. Unlike many Middle East courses, which focus on US policy in the region, the course concentrates on the regional players' perceptions of the threats and opportunities they face and the strategies they have adopted to deal with them. It thus provides an essential vantage point for those interested in gaining a deeper understanding of a region, which stands at the center of many of the foreign policy issues of our era. The course is designed for those with a general interest in the Middle East, especially those interested in national security issues, students of comparative politics and future practitioners, with an interest in ""real world"" international relations and national security."
+359,secur,Fall 2019,SECURITY ANALYSIS,columbia university,,,,,
+360,secur,Fall 2019,SECURITY II,columbia university,,,,,
+361,secur,Fall 2019,SECURITIES REGULATION,columbia university,,,,,
+362,secur,Fall 2019,INT'L SECURITIES REGULATION,columbia university,,,,,
+363,secur,Fall 2019,RE DEBT SECURITIZATION,columbia university,,,,,
+364,secur,Fall 2019,ENTERPR INFO SECURITY: THREATS & DEFENSE,columbia university,,,,,
+530,secur,Summer 2019,SECURITY ANALYSIS,columbia university,,,,,
+531,secur,Summer 2019,EAST ASIAN SECURITY,columbia university,,,,,
+532,secur,Summer 2019,ENTERPR INFO SECURITY: THREATS & DEFENSE,columbia university,,,,,
+533,secur,Summer 2019,CYBERSECURITY STRAT & EXECUTIVE RESPONSE,columbia university,,,,,
+851,privac,Spring 2019,PRIVACY IN A NETWORKED WORLD,columbia university,,,,,
+878,secur,Spring 2019,SECURITY ANALYSIS,columbia university,,,,,
+879,secur,Spring 2019,SECURITY I,columbia university,,,,,
+880,secur,Spring 2019,SECURITIES REGULATION,columbia university,,,,,
+881,secur,Spring 2019,NATIONAL SECURITY LAW,columbia university,,,,,
+882,secur,Spring 2019,S NAT'L SECURITY INVEST & PROS,columbia university,,,,,
+883,secur,Spring 2019,"GLOBAL FOOD SECURITY, GLOBAL OCEANS, AND",columbia university,,,,,
+884,secur,Spring 2019,ENTERPR INFO SECURITY: THREATS & DEFENSE,columbia university,,,,,

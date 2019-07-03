@@ -4,7 +4,7 @@ No ,236939,Washington State University,Other - PDF Website Hybrid,"Corses differ
 No ,178396,University of Missouri-Columbia,,,,,
 No,176017,University of Mississippi,Website,https://catalog.olemiss.edu/,,,
 No,131496,Georgetown University,,,,,
-No,209542,Oregon State University,Website,https://catalog.oregonstate.edu/courses/,,,
+Yes - B,209542,Oregon State University,Website,https://catalog.oregonstate.edu/courses/,,,
 No,104179,University of Arizona,,,,,
 Yes - S,190150,Columbia University in the City of New York,Website,http://bulletin.columbia.edu/columbia-college/departments-instruction/,https://github.com/brianavecchione/data-science-ethics/blob/master/scrapers/9-columbia.ipynb,https://github.com/brianavecchione/data-science-ethics/blob/master/courses/columbia.csv,"Only have Fall 2019, Spring 2019, and Summer 2019 information; dept, instructor and credits infor needs to be collected manually"
 No,110680,University of California-San Diego,,,,,

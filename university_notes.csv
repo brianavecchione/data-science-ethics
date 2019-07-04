@@ -2,7 +2,7 @@ Finished Scrubbing,UNITID,School_Name,Course_Catalog_Status,Website,Scrapper_lin
 Ongoing - S,228723,Texas A & M University-College Station,,https://compass-ssb.tamu.edu/pls/PROD/bwckschd.p_disp_dyn_sched.,,,No detailed course descriptions
 No ,236939,Washington State University,Other - PDF Website Hybrid,"Corses differ by campus, do we search through all campus's or just the main one? https://www.catalog.wsu.edu/ ",,,
 No ,178396,University of Missouri-Columbia,,,,,
-No,176017,University of Mississippi,Website,https://catalog.olemiss.edu/,,,
+Ongoing - B,176017,University of Mississippi,Website,https://catalog.olemiss.edu/courses/A,,,
 No,131496,Georgetown University,,,,,
 Yes - B,209542,Oregon State University,Website,https://catalog.oregonstate.edu/courses/,,,
 No,104179,University of Arizona,,,,,

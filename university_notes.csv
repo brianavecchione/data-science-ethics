@@ -5,11 +5,11 @@ No ,178396,University of Missouri-Columbia,,,,,
 Ongoing - B,176017,University of Mississippi,Website,https://catalog.olemiss.edu/courses/A,,,
 Ongoing - S,131496,Georgetown University,Website - dropdown,https://myaccess.georgetown.edu/pls/bninbp/bwskfcls.p_disp_dyn_ctlg#_ga=,https://github.com/brianavecchione/data-science-ethics/blob/master/scrapers/6-Georgetown%20University.ipynb,,
 Yes - B,209542,Oregon State University,Website,https://catalog.oregonstate.edu/courses/,,,
-Unable,104179,University of Arizona,Website - dropdown,,,,No search functionality available
+Unable - S,104179,University of Arizona,Website - dropdown,,,,No search functionality available
 Yes - S,190150,Columbia University in the City of New York,Website,http://bulletin.columbia.edu/columbia-college/departments-instruction/,https://github.com/brianavecchione/data-science-ethics/blob/master/scrapers/9-columbia.ipynb,https://github.com/brianavecchione/data-science-ethics/blob/master/courses/columbia.csv,"Only have Fall 2019, Spring 2019, and Summer 2019 information; dept, instructor and credits infor needs to be collected manually"
-Unable,110680,University of California-San Diego,,http://registrar.ucsd.edu/catalog/18-19/front/courses.html,,,Courses listed inside departments
+Ongoing - S,110680,University of California-San Diego,,http://registrar.ucsd.edu/catalog/18-19/front/courses.html,,,"Courses listed inside departments, could loop through all department and run the search; Undergraduate & graduate programs are mixed together"
 No,126818,Colorado State University-Fort Collins,Website,Need to make sure this is specifically for Fort Collins. http://catalog.colostate.edu/general-catalog/courses-az/,,,
-No,195030,University of Rochester,,,,,
+No,195030,University of Rochester,Website - dropdown,https://cdcs.ur.rochester.edu/,,,
 No,196088,University at Buffalo,Website,https://catalog.buffalo.edu/,,,
 No,225511,University of Houston,,,,,
 No,132903,University of Central Florida,Website - Very bad structure,http://catalog.ucf.edu/,,,

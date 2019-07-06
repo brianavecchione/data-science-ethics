@@ -9,7 +9,7 @@ Unable - S,104179,University of Arizona,Website - dropdown,,,,No search function
 Yes - S,190150,Columbia University in the City of New York,Website,http://bulletin.columbia.edu/columbia-college/departments-instruction/,https://github.com/brianavecchione/data-science-ethics/blob/master/scrapers/9-columbia.ipynb,https://github.com/brianavecchione/data-science-ethics/blob/master/courses/columbia.csv,"Only have Fall 2019, Spring 2019, and Summer 2019 information; dept, instructor and credits infor needs to be collected manually"
 Ongoing - S,110680,University of California-San Diego,,http://registrar.ucsd.edu/catalog/18-19/front/courses.html,,,"Courses listed inside departments, could loop through all department and run the search; Undergraduate & graduate programs are mixed together"
 No,126818,Colorado State University-Fort Collins,Website,Need to make sure this is specifically for Fort Collins. http://catalog.colostate.edu/general-catalog/courses-az/,,,
-No,195030,University of Rochester,Website - dropdown,https://cdcs.ur.rochester.edu/,,,
+Ongoing - S,195030,University of Rochester,Website - dropdown,https://cdcs.ur.rochester.edu/,,,
 No,196088,University at Buffalo,Website,https://catalog.buffalo.edu/,,,
 No,225511,University of Houston,,,,,
 No,132903,University of Central Florida,Website - Very bad structure,http://catalog.ucf.edu/,,,

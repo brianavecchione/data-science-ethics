@@ -3,7 +3,7 @@ Ongoing - S,228723,Texas A & M University-College Station,,https://compass-ssb.t
 No ,236939,Washington State University,Other - PDF Website Hybrid,"Corses differ by campus, do we search through all campus's or just the main one? https://www.catalog.wsu.edu/ ",,,
 No ,178396,University of Missouri-Columbia,,,,,
 Ongoing - B,176017,University of Mississippi,Website,https://catalog.olemiss.edu/courses/A,,,
-Ongoing - S,131496,Georgetown University,,,,,
+Ongoing - S,131496,Georgetown University,Website - dropdown,https://myaccess.georgetown.edu/pls/bninbp/bwskfcls.p_disp_dyn_ctlg#_ga=,https://github.com/brianavecchione/data-science-ethics/blob/master/scrapers/6-Georgetown%20University.ipynb,,
 Yes - B,209542,Oregon State University,Website,https://catalog.oregonstate.edu/courses/,,,
 No,104179,University of Arizona,,,,,
 Yes - S,190150,Columbia University in the City of New York,Website,http://bulletin.columbia.edu/columbia-college/departments-instruction/,https://github.com/brianavecchione/data-science-ethics/blob/master/scrapers/9-columbia.ipynb,https://github.com/brianavecchione/data-science-ethics/blob/master/courses/columbia.csv,"Only have Fall 2019, Spring 2019, and Summer 2019 information; dept, instructor and credits infor needs to be collected manually"
@@ -17,7 +17,7 @@ No,155399,Kansas State University,,,,,
 No,187985,University of New Mexico-Main Campus,Website,Need to make sure this is specifically for the main campus. http://catalog.unm.edu/catalogs/2019-2020/courses/index.html,,,
 No,110705,University of California-Santa Barbara,,,,,
 No,110714,University of California-Santa Cruz,Website,Scrolled down till you see 'Course Descriptions' on the left-side bar. https://registrar.ucsc.edu/catalog/programs-courses/course-descriptions/index.html,,,
-Ongoing - S,164988,Boston University,,https://www.bu.edu/phpbin/course-search/,,,"only allows students to search course description for Fall 2019 and future semesters, not past semesters"
+Ongoing - S,164988,Boston University,Website - dropdown,https://www.bu.edu/phpbin/course-search/,https://github.com/brianavecchione/data-science-ethics/blob/master/scrapers/20-Boston%20University.ipynb,,"only allows students to search course description for Fall 2019 and future semesters, not past semesters"
 No,147767,Northwestern University,Other - PDF Website Hybrid,PDF - https://www.registrar.northwestern.edu/documents/registration/catalog-archive/2017-18_NU_Undergraduate_Catalog.pdf                                     Website - https://www.northwestern.edu/class-descriptions/,,,
 No,227757,Rice University,,,,,
 No,110671,University of California-Riverside,Website - Very bad structure,https://registrationssb.ucr.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search,,,

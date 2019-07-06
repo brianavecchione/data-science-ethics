@@ -3,7 +3,7 @@ Ongoing - S,228723,Texas A & M University-College Station,,https://compass-ssb.t
 No ,236939,Washington State University,Other - PDF Website Hybrid,"Corses differ by campus, do we search through all campus's or just the main one? https://www.catalog.wsu.edu/ ",,,
 No ,178396,University of Missouri-Columbia,,,,,
 Ongoing - B,176017,University of Mississippi,Website,https://catalog.olemiss.edu/courses/A,,,
-No,131496,Georgetown University,,,,,
+Ongoing - S,131496,Georgetown University,,,,,
 Yes - B,209542,Oregon State University,Website,https://catalog.oregonstate.edu/courses/,,,
 No,104179,University of Arizona,,,,,
 Yes - S,190150,Columbia University in the City of New York,Website,http://bulletin.columbia.edu/columbia-college/departments-instruction/,https://github.com/brianavecchione/data-science-ethics/blob/master/scrapers/9-columbia.ipynb,https://github.com/brianavecchione/data-science-ethics/blob/master/courses/columbia.csv,"Only have Fall 2019, Spring 2019, and Summer 2019 information; dept, instructor and credits infor needs to be collected manually"

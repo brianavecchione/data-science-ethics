@@ -1,0 +1,731 @@
+dept_num,description,keyword,term,title
+COSC 437 ,"1.000 Credit hours
+1.000 Lecture hours
+
+Levels: Undergraduate
+Schedule Types: Seminar
+
+Computer Science Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Fall 2017, Cybersecurity Seminar
+COSC 438 ,"1.000 Credit hours
+1.000 Lecture hours
+
+Levels: Undergraduate
+Schedule Types: Seminar
+
+Computer Science Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Fall 2017, Cybersecurity Writing Seminar
+LAWG 1409 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Fall 2017, Cybercrime & Tech Insecurity
+LAWG 2004 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Fall 2017, Biosecurity and the Law
+LAWG 2052 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Lecture, Seminar
+
+Law (Graduate) Department",secur,Fall 2017, Cybersecurity Law
+LAWG 3038 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Fall 2017, Biosecurity and the Law
+LAWJ 1409 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Fall 2017, Cybercrime & Tech Insecurity
+LAWJ 2004 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Fall 2017, Biosecurity and the Law
+LAWJ 3038 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Fall 2017, Biosecurity and the Law
+MSFS 556 ,"Cybersecurity has emerged as one of the most significant international security and economic risks today. The headlines speak volumes about the import of the issue. Cyber attacks have caused catastrophic damage to critical infrastructure and businesses. Top cybersecurity experts now say, “There are two types of companies: those that know they have been breached and those that don’t.” The cyber-enabled theft of intellectual property and trade secrets has been called “the greatest transfer of wealth in history.”
+Due to the evolving threats and increasingly significant legal, financial, and reputational consequences associated with cyber attacks, it is necessary for businesses and government organizations to establish formal processes for preventing, mitigating, and responding to cyber-attacks. It is increasingly important for students of international affairs to understand both the policy implications and technical aspects of cybersecurity.
+This class will take a comprehensive approach to understanding cybersecurity. The course will: (1) provide students a technical understanding of the methods attackers use to damage, disrupt, or gain unauthorized access to computer systems and electronic communications networks; (2) focus on key cyber actors and groups who exploit and defend computer networks; (3) examine the policies, laws, and frameworks created by businesses, governments and the international community to mitigate and manage the damage caused by cyber attacks; and (4) give students exposure to professionals in the field tasked with managing cyber threats for government agencies and corporations where the stakes are highest. 
+Some of the topics that will be covered include: U.S. and international cyber policies, strategy, law, standards, and governance structures; the investigation of cyber crimes and the challenge of attribution; advanced threat actors and their techniques; the rise of state and non-state actors and the concept of cyber war; privacy; cyber risk management and incident management; critical infrastructure protection; and hardware and software supply chain integrity. Students will also participate in a cybersecurity tabletop exercise.
+The skills students will gain in this class include: greater IT fluency and understanding of networking basics; familiarity with the cyber risk environment and an understanding of the operational challenges organizations face managing cyber risk; understanding of the scope and impact of cyber threats and of the basic ways to reduce exposure to and mitigate cyber threats. The class will consist of a mix of lectures and discussions and will make use of occasional guest speakers. The course is appropriate for students who are interested in careers at government agencies that are involved in cybersecurity policy or have a role in protecting government networks or for students who may go on to management or technology-focused positions in the private sector. Students will be evaluated based on class participation, a policy memo, performance in the tabletop exercise, a take-home midterm and a take-home final.
+
+3.000 Credit hours
+3.000 Lecture hours
+0.000 Lab hours
+
+Levels: MN or MC Graduate, Juris Doctor
+Schedule Types: Seminar
+
+MS in Foreign Service Department",secur,Fall 2017, Cybersecurity: Bus/Gov/Int Com
+SEST 709 ,"Cyber. So hot right now. Central to our daily lives and constantly in the news, some facets of cybersecurity follow the broader principles of international relations while others are substantially different to students of traditional national security issues. Designed for openness and collaboration, internet security is something we aspire to but is often an afterthought in terms of design. Throughout this course, we'll look at cybersecurity topics through the framework of balancing risk and stakeholder prerogatives across government, companies, and individuals. We will explore the disconnect between Westphalian legal structures and technology that makes borders invisible as well as how the human perspective of ""where you stand depends on where you sit"" gets in the way of better approaches. 
+
+Although not designed for a technical audience, students will develop a sufficient understanding of the technical components of the internet to understand how attacks are mounted.  After developing that foundation, we will explore how states operate in the cyber domain and challenges with attribution and response. We will then progress to understanding the challenges facing defenders and how risk differs for government, companies, and individuals. The final section of the course will examine issues bringing those viewpoints into direct conflict such as the extent of government and intelligence community access to private companies. Throughout the course, students will examine specific breaches and case studies for their significance to our understanding of cybersecurity risks.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate
+Schedule Types: Seminar
+
+Security Studies Department",secur,Fall 2017, Cybersecurity Strategy
+STIA 391 ,"Cybersecurity has become an issue of national and international security significance. The growth of a nearly ubiquitous global information infrastructure and the availability of affordable, sophisticated information technologies has created an environment with potentially profound effects on the economic, financial, political, diplomatic, military, and technological affairs that shape our world. Information has become, perhaps, our most valuable resource. Stealing it, altering it, and protecting it have become a high-stakes endeavor. Information technology governs many of our infrastructures, even as its use may become the arbiter of military power. The global information infrastructure also represents a common information environment for citizens, diplomats, businesses, academia, social movements, and intelligence. This course will explore the varying concepts of the use of cybersecurity, examining the policy implications of its use, its relationship to state sovereignty, its implications for the global private sector, its effects on a nation's critical infrastructure, and its potential effects on the balance of power among nation-states. The course is taught by Samuel Visner, STIA Adjunct Professor, Senior Vice President and General Manager, Cybersecurity at ICF International (http://www.icfi.com/services/cybersecurity), former Chief of Signals Intelligence Programs at the National Security Agency, and Georgetown University, SFS 1976.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Lecture, Seminar
+
+Science, Tech, & Int'l Affairs Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Fall 2017, Cybersecurity: Policy/Tech/Ops
+STIA 420 ,"Cybersecurity Conflict and Policy is an introduction to the fights—both policy and literal—to control cyberspace, secure data, and ultimately define the relationship between citizen and government. Beginning with the nation state and working our way to the individual, the class will take a technology-based approach to mapping the landscape of cybersecurity law and policy. Over the semester, students will develop a baseline understanding of the technology, relevant actors, policy responses, and stakes underlying the most pressing and consequential cybersecurity conflicts. The semester will break down into six primary cybersecurity focus areas: (1) the technology fundamentals of network security, (2) the threat landscape, (3) the private sector, (4) national security, (5) law enforcement, and (6) privacy and the rule of law. Classes will explore the many tensions between privacy and security, as well as the challenges the government and private sector face in defending against a vast array of bad actors with many tools. We will cover topics ranging from cyber warfare, cybercrime, and surveillance—and how to tell the difference—as well as emerging threats and allocations of private and public responsibility. At the end of the semester, students will have a basic understanding of computer and network technology, will be able to identify the major open questions in cybersecurity policy, and have a language and context for addressing those policy challenges.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Science, Tech, & Int'l Affairs Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Fall 2017, Cybersecurity Confl + Policy
+COSC 437 ,"1.000 Credit hours
+1.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Computer Science Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Spring 2018, Cybersecurity Seminar
+COSC 438 ,"1.000 Credit hours
+1.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Computer Science Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Spring 2018, Cybersecurity Writing Seminar
+LAWG 2004 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Spring 2018, Biosecurity and the Law
+LAWG 2052 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Lecture, Seminar
+
+Law (Graduate) Department",secur,Spring 2018, Cybersecurity Law
+LAWG 3038 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Spring 2018, Biosecurity and the Law
+LAWJ 2004 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Spring 2018, Biosecurity and the Law
+LAWJ 3038 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Spring 2018, Biosecurity and the Law
+MSFS 556 ,"Cybersecurity has emerged as one of the most significant international security and economic risks today. The headlines speak volumes about the import of the issue. Cyber attacks have caused catastrophic damage to critical infrastructure and businesses. Top cybersecurity experts now say, “There are two types of companies: those that know they have been breached and those that don’t.” The cyber-enabled theft of intellectual property and trade secrets has been called “the greatest transfer of wealth in history.”
+Due to the evolving threats and increasingly significant legal, financial, and reputational consequences associated with cyber attacks, it is necessary for businesses and government organizations to establish formal processes for preventing, mitigating, and responding to cyber-attacks. It is increasingly important for students of international affairs to understand both the policy implications and technical aspects of cybersecurity.
+This class will take a comprehensive approach to understanding cybersecurity. The course will: (1) provide students a technical understanding of the methods attackers use to damage, disrupt, or gain unauthorized access to computer systems and electronic communications networks; (2) focus on key cyber actors and groups who exploit and defend computer networks; (3) examine the policies, laws, and frameworks created by businesses, governments and the international community to mitigate and manage the damage caused by cyber attacks; and (4) give students exposure to professionals in the field tasked with managing cyber threats for government agencies and corporations where the stakes are highest. 
+Some of the topics that will be covered include: U.S. and international cyber policies, strategy, law, standards, and governance structures; the investigation of cyber crimes and the challenge of attribution; advanced threat actors and their techniques; the rise of state and non-state actors and the concept of cyber war; privacy; cyber risk management and incident management; critical infrastructure protection; and hardware and software supply chain integrity. Students will also participate in a cybersecurity tabletop exercise.
+The skills students will gain in this class include: greater IT fluency and understanding of networking basics; familiarity with the cyber risk environment and an understanding of the operational challenges organizations face managing cyber risk; understanding of the scope and impact of cyber threats and of the basic ways to reduce exposure to and mitigate cyber threats. The class will consist of a mix of lectures and discussions and will make use of occasional guest speakers. The course is appropriate for students who are interested in careers at government agencies that are involved in cybersecurity policy or have a role in protecting government networks or for students who may go on to management or technology-focused positions in the private sector. Students will be evaluated based on class participation, a policy memo, performance in the tabletop exercise, a take-home midterm and a take-home final.
+
+3.000 Credit hours
+3.000 Lecture hours
+0.000 Lab hours
+
+Levels: MN or MC Graduate, Juris Doctor
+Schedule Types: Seminar
+
+MS in Foreign Service Department",secur,Spring 2018, Cybersecurity: Bus/Gov/Int Com
+SEST 709 ,"Cyber. So hot right now. Central to our daily lives and constantly in the news, some facets of cybersecurity follow the broader principles of international relations while others are substantially different to students of traditional national security issues. Designed for openness and collaboration, internet security is something we aspire to but is often an afterthought in terms of design. Throughout this course, we'll look at cybersecurity topics through the framework of balancing risk and stakeholder prerogatives across government, companies, and individuals. We will explore the disconnect between Westphalian legal structures and technology that makes borders invisible as well as how the human perspective of ""where you stand depends on where you sit"" gets in the way of better approaches. 
+
+Although not designed for a technical audience, students will develop a sufficient understanding of the technical components of the internet to understand how attacks are mounted.  After developing that foundation, we will explore how states operate in the cyber domain and challenges with attribution and response. We will then progress to understanding the challenges facing defenders and how risk differs for government, companies, and individuals. The final section of the course will examine issues bringing those viewpoints into direct conflict such as the extent of government and intelligence community access to private companies. Throughout the course, students will examine specific breaches and case studies for their significance to our understanding of cybersecurity risks.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate
+Schedule Types: Seminar
+
+Security Studies Department",secur,Spring 2018, Cybersecurity Strategy
+STIA 391 ,"Cybersecurity has become an issue of national and international security significance. The growth of a nearly ubiquitous global information infrastructure and the availability of affordable, sophisticated information technologies has created an environment with potentially profound effects on the economic, financial, political, diplomatic, military, and technological affairs that shape our world. Information has become, perhaps, our most valuable resource. Stealing it, altering it, and protecting it have become a high-stakes endeavor. Information technology governs many of our infrastructures, even as its use may become the arbiter of military power. The global information infrastructure also represents a common information environment for citizens, diplomats, businesses, academia, social movements, and intelligence. This course will explore the varying concepts of the use of cybersecurity, examining the policy implications of its use, its relationship to state sovereignty, its implications for the global private sector, its effects on a nation's critical infrastructure, and its potential effects on the balance of power among nation-states. The course is taught by Samuel Visner, STIA Adjunct Professor, Senior Vice President and General Manager, Cybersecurity at ICF International (http://www.icfi.com/services/cybersecurity), former Chief of Signals Intelligence Programs at the National Security Agency, and Georgetown University, SFS 1976.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Lecture, Seminar
+
+Science, Tech, & Int'l Affairs Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Spring 2018, Cybersecurity: Policy/Tech/Ops
+STIA 420 ,"Cybersecurity Conflict and Policy is an introduction to the fights—both policy and literal—to control cyberspace, secure data, and ultimately define the relationship between citizen and government. Beginning with the nation state and working our way to the individual, the class will take a technology-based approach to mapping the landscape of cybersecurity law and policy. Over the semester, students will develop a baseline understanding of the technology, relevant actors, policy responses, and stakes underlying the most pressing and consequential cybersecurity conflicts. The semester will break down into six primary cybersecurity focus areas: (1) the technology fundamentals of network security, (2) the threat landscape, (3) the private sector, (4) national security, (5) law enforcement, and (6) privacy and the rule of law. Classes will explore the many tensions between privacy and security, as well as the challenges the government and private sector face in defending against a vast array of bad actors with many tools. We will cover topics ranging from cyber warfare, cybercrime, and surveillance—and how to tell the difference—as well as emerging threats and allocations of private and public responsibility. At the end of the semester, students will have a basic understanding of computer and network technology, will be able to identify the major open questions in cybersecurity policy, and have a language and context for addressing those policy challenges.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Science, Tech, & Int'l Affairs Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Spring 2018, Cybersecurity Confl + Policy
+UNXD 437 ," This seminar is designed to develop students academically and professionally in the practice of cybersecurity. It provides students with an understanding of topics including the requirements of individuals who want security clearances, Federal cybersecurity regulations and standards, the respective roles of the Department of Homeland Security and the National Security Agency, the role the Federal Government plays when securing government and civilian networks, the role of state governments with respect to privacy and security, and the policy controls and best practices to protect networks and systems. The seminar builds community among the faculty, graduate students, and undergraduate students. The seminar consists of presentations from faculty, students, and cybersecurity professionals in industry, academia, and the public sector. Students will also design course materials to educate non-technical people, such as political appointees, senior executive staff, and the general public on issues of cybersecurity. Class meetings may also occur off campus at Congressional offices, Executive offices, select agencies (e.g., DHS, NSA, NGA, DISA), and partner campuses of other local universities. These experiences provide students with opportunities to strengthen professional communication skills, understand the practice of cybersecurity, and build professional relationships with professionals and peers working in cybersecurity.
+
+1.000 Credit hours
+1.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Univ Wide cross disc courses Department",secur,Spring 2018, Cybersecurity Seminar
+UNXD 438 ," This seminar is part of a two-course sequence that teaches students the common forms of professional writing and presentation required for the field of cybersecurity. In the fall seminar, students master specific techniques and strategies that let them to clarify a document’s purpose; design pages for readers who scan; and edit documents to ensure logical organization, flow, effective tone, clarity, concision, and correctness. In the spring seminar, students proceed through three writing challenges based on documents used in the workplace. To complete each writing challenge, students study models of the document type; hear from working professionals who have mastered the document type; complete numerous drafts; refine their drafts with peers; and review their drafts. The final writing assignment of the spring seminar involves reflecting on the knowledge gained from the presentations in the Cybersecurity Seminar and summarizing current practice in cybersecurity in the public sector. 
+
+1.000 Credit hours
+1.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Univ Wide cross disc courses Department",secur,Spring 2018, Cybersecurity Writing Seminar
+COSC 437 ,"1.000 Credit hours
+1.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Computer Science Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Summer 2018, Cybersecurity Seminar
+COSC 438 ,"1.000 Credit hours
+1.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Computer Science Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Summer 2018, Cybersecurity Writing Seminar
+LAWG 2004 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Summer 2018, Biosecurity and the Law
+LAWG 2052 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Lecture, Seminar
+
+Law (Graduate) Department",secur,Summer 2018, Cybersecurity Law
+LAWG 3038 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Summer 2018, Biosecurity and the Law
+LAWJ 2004 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Summer 2018, Biosecurity and the Law
+LAWJ 3038 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Summer 2018, Biosecurity and the Law
+MSFS 556 ,"Cybersecurity has emerged as one of the most significant international security and economic risks today. The headlines speak volumes about the import of the issue. Cyber attacks have caused catastrophic damage to critical infrastructure and businesses. Top cybersecurity experts now say, “There are two types of companies: those that know they have been breached and those that don’t.” The cyber-enabled theft of intellectual property and trade secrets has been called “the greatest transfer of wealth in history.”
+Due to the evolving threats and increasingly significant legal, financial, and reputational consequences associated with cyber attacks, it is necessary for businesses and government organizations to establish formal processes for preventing, mitigating, and responding to cyber-attacks. It is increasingly important for students of international affairs to understand both the policy implications and technical aspects of cybersecurity.
+This class will take a comprehensive approach to understanding cybersecurity. The course will: (1) provide students a technical understanding of the methods attackers use to damage, disrupt, or gain unauthorized access to computer systems and electronic communications networks; (2) focus on key cyber actors and groups who exploit and defend computer networks; (3) examine the policies, laws, and frameworks created by businesses, governments and the international community to mitigate and manage the damage caused by cyber attacks; and (4) give students exposure to professionals in the field tasked with managing cyber threats for government agencies and corporations where the stakes are highest. 
+Some of the topics that will be covered include: U.S. and international cyber policies, strategy, law, standards, and governance structures; the investigation of cyber crimes and the challenge of attribution; advanced threat actors and their techniques; the rise of state and non-state actors and the concept of cyber war; privacy; cyber risk management and incident management; critical infrastructure protection; and hardware and software supply chain integrity. Students will also participate in a cybersecurity tabletop exercise.
+The skills students will gain in this class include: greater IT fluency and understanding of networking basics; familiarity with the cyber risk environment and an understanding of the operational challenges organizations face managing cyber risk; understanding of the scope and impact of cyber threats and of the basic ways to reduce exposure to and mitigate cyber threats. The class will consist of a mix of lectures and discussions and will make use of occasional guest speakers. The course is appropriate for students who are interested in careers at government agencies that are involved in cybersecurity policy or have a role in protecting government networks or for students who may go on to management or technology-focused positions in the private sector. Students will be evaluated based on class participation, a policy memo, performance in the tabletop exercise, a take-home midterm and a take-home final.
+
+3.000 Credit hours
+3.000 Lecture hours
+0.000 Lab hours
+
+Levels: MN or MC Graduate, Juris Doctor
+Schedule Types: Seminar
+
+MS in Foreign Service Department",secur,Summer 2018, Cybersecurity: Bus/Gov/Int Com
+SEST 709 ,"Cyber. So hot right now. Central to our daily lives and constantly in the news, some facets of cybersecurity follow the broader principles of international relations while others are substantially different to students of traditional national security issues. Designed for openness and collaboration, internet security is something we aspire to but is often an afterthought in terms of design. Throughout this course, we'll look at cybersecurity topics through the framework of balancing risk and stakeholder prerogatives across government, companies, and individuals. We will explore the disconnect between Westphalian legal structures and technology that makes borders invisible as well as how the human perspective of ""where you stand depends on where you sit"" gets in the way of better approaches. 
+
+Although not designed for a technical audience, students will develop a sufficient understanding of the technical components of the internet to understand how attacks are mounted.  After developing that foundation, we will explore how states operate in the cyber domain and challenges with attribution and response. We will then progress to understanding the challenges facing defenders and how risk differs for government, companies, and individuals. The final section of the course will examine issues bringing those viewpoints into direct conflict such as the extent of government and intelligence community access to private companies. Throughout the course, students will examine specific breaches and case studies for their significance to our understanding of cybersecurity risks.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate
+Schedule Types: Seminar
+
+Security Studies Department",secur,Summer 2018, Cybersecurity Strategy
+STIA 391 ,"Cybersecurity has become an issue of national and international security significance. The growth of a nearly ubiquitous global information infrastructure and the availability of affordable, sophisticated information technologies has created an environment with potentially profound effects on the economic, financial, political, diplomatic, military, and technological affairs that shape our world. Information has become, perhaps, our most valuable resource. Stealing it, altering it, and protecting it have become a high-stakes endeavor. Information technology governs many of our infrastructures, even as its use may become the arbiter of military power. The global information infrastructure also represents a common information environment for citizens, diplomats, businesses, academia, social movements, and intelligence. This course will explore the varying concepts of the use of cybersecurity, examining the policy implications of its use, its relationship to state sovereignty, its implications for the global private sector, its effects on a nation's critical infrastructure, and its potential effects on the balance of power among nation-states. The course is taught by Samuel Visner, STIA Adjunct Professor, Senior Vice President and General Manager, Cybersecurity at ICF International (http://www.icfi.com/services/cybersecurity), former Chief of Signals Intelligence Programs at the National Security Agency, and Georgetown University, SFS 1976.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Lecture, Seminar
+
+Science, Tech, & Int'l Affairs Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Summer 2018, Cybersecurity: Policy/Tech/Ops
+STIA 420 ,"Cybersecurity Conflict and Policy is an introduction to the fights—both policy and literal—to control cyberspace, secure data, and ultimately define the relationship between citizen and government. Beginning with the nation state and working our way to the individual, the class will take a technology-based approach to mapping the landscape of cybersecurity law and policy. Over the semester, students will develop a baseline understanding of the technology, relevant actors, policy responses, and stakes underlying the most pressing and consequential cybersecurity conflicts. The semester will break down into six primary cybersecurity focus areas: (1) the technology fundamentals of network security, (2) the threat landscape, (3) the private sector, (4) national security, (5) law enforcement, and (6) privacy and the rule of law. Classes will explore the many tensions between privacy and security, as well as the challenges the government and private sector face in defending against a vast array of bad actors with many tools. We will cover topics ranging from cyber warfare, cybercrime, and surveillance—and how to tell the difference—as well as emerging threats and allocations of private and public responsibility. At the end of the semester, students will have a basic understanding of computer and network technology, will be able to identify the major open questions in cybersecurity policy, and have a language and context for addressing those policy challenges.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Science, Tech, & Int'l Affairs Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Summer 2018, Cybersecurity Confl + Policy
+UNXD 437 ," This seminar is designed to develop students academically and professionally in the practice of cybersecurity. It provides students with an understanding of topics including the requirements of individuals who want security clearances, Federal cybersecurity regulations and standards, the respective roles of the Department of Homeland Security and the National Security Agency, the role the Federal Government plays when securing government and civilian networks, the role of state governments with respect to privacy and security, and the policy controls and best practices to protect networks and systems. The seminar builds community among the faculty, graduate students, and undergraduate students. The seminar consists of presentations from faculty, students, and cybersecurity professionals in industry, academia, and the public sector. Students will also design course materials to educate non-technical people, such as political appointees, senior executive staff, and the general public on issues of cybersecurity. Class meetings may also occur off campus at Congressional offices, Executive offices, select agencies (e.g., DHS, NSA, NGA, DISA), and partner campuses of other local universities. These experiences provide students with opportunities to strengthen professional communication skills, understand the practice of cybersecurity, and build professional relationships with professionals and peers working in cybersecurity.
+
+1.000 Credit hours
+1.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Univ Wide cross disc courses Department",secur,Summer 2018, Cybersecurity Seminar
+UNXD 438 ," This seminar is part of a two-course sequence that teaches students the common forms of professional writing and presentation required for the field of cybersecurity. In the fall seminar, students master specific techniques and strategies that let them to clarify a document’s purpose; design pages for readers who scan; and edit documents to ensure logical organization, flow, effective tone, clarity, concision, and correctness. In the spring seminar, students proceed through three writing challenges based on documents used in the workplace. To complete each writing challenge, students study models of the document type; hear from working professionals who have mastered the document type; complete numerous drafts; refine their drafts with peers; and review their drafts. The final writing assignment of the spring seminar involves reflecting on the knowledge gained from the presentations in the Cybersecurity Seminar and summarizing current practice in cybersecurity in the public sector. 
+
+1.000 Credit hours
+1.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Univ Wide cross disc courses Department",secur,Summer 2018, Cybersecurity Writing Seminar
+LAWG 2004 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Fall 2018, Biosecurity and the Law
+LAWG 2052 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Lecture, Seminar
+
+Law (Graduate) Department",secur,Fall 2018, Cybersecurity Law
+LAWG 3038 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Fall 2018, Biosecurity and the Law
+LAWG 3066 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Fall 2018, Cybersecurity Law & Policy
+LAWJ 2004 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Fall 2018, Biosecurity and the Law
+LAWJ 3038 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Fall 2018, Biosecurity and the Law
+LAWJ 3066 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Fall 2018, Cybersecurity Law & Policy
+MSFS 556 ,"Cybersecurity has emerged as one of the most significant international security and economic risks today. The headlines speak volumes about the import of the issue. Cyber attacks have caused catastrophic damage to critical infrastructure and businesses. Top cybersecurity experts now say, “There are two types of companies: those that know they have been breached and those that don’t.” The cyber-enabled theft of intellectual property and trade secrets has been called “the greatest transfer of wealth in history.”
+Due to the evolving threats and increasingly significant legal, financial, and reputational consequences associated with cyber attacks, it is necessary for businesses and government organizations to establish formal processes for preventing, mitigating, and responding to cyber-attacks. It is increasingly important for students of international affairs to understand both the policy implications and technical aspects of cybersecurity.
+This class will take a comprehensive approach to understanding cybersecurity. The course will: (1) provide students a technical understanding of the methods attackers use to damage, disrupt, or gain unauthorized access to computer systems and electronic communications networks; (2) focus on key cyber actors and groups who exploit and defend computer networks; (3) examine the policies, laws, and frameworks created by businesses, governments and the international community to mitigate and manage the damage caused by cyber attacks; and (4) give students exposure to professionals in the field tasked with managing cyber threats for government agencies and corporations where the stakes are highest. 
+Some of the topics that will be covered include: U.S. and international cyber policies, strategy, law, standards, and governance structures; the investigation of cyber crimes and the challenge of attribution; advanced threat actors and their techniques; the rise of state and non-state actors and the concept of cyber war; privacy; cyber risk management and incident management; critical infrastructure protection; and hardware and software supply chain integrity. Students will also participate in a cybersecurity tabletop exercise.
+The skills students will gain in this class include: greater IT fluency and understanding of networking basics; familiarity with the cyber risk environment and an understanding of the operational challenges organizations face managing cyber risk; understanding of the scope and impact of cyber threats and of the basic ways to reduce exposure to and mitigate cyber threats. The class will consist of a mix of lectures and discussions and will make use of occasional guest speakers. The course is appropriate for students who are interested in careers at government agencies that are involved in cybersecurity policy or have a role in protecting government networks or for students who may go on to management or technology-focused positions in the private sector. Students will be evaluated based on class participation, a policy memo, performance in the tabletop exercise, a take-home midterm and a take-home final.
+
+3.000 Credit hours
+3.000 Lecture hours
+0.000 Lab hours
+
+Levels: MN or MC Graduate, Juris Doctor
+Schedule Types: Seminar
+
+MS in Foreign Service Department",secur,Fall 2018, Cybersecurity: Bus/Gov/Int Com
+SEST 709 ,"Cyber. So hot right now. Central to our daily lives and constantly in the news, some facets of cybersecurity follow the broader principles of international relations while others are substantially different to students of traditional national security issues. Designed for openness and collaboration, internet security is something we aspire to but is often an afterthought in terms of design. Throughout this course, we'll look at cybersecurity topics through the framework of balancing risk and stakeholder prerogatives across government, companies, and individuals. We will explore the disconnect between Westphalian legal structures and technology that makes borders invisible as well as how the human perspective of ""where you stand depends on where you sit"" gets in the way of better approaches. 
+
+Although not designed for a technical audience, students will develop a sufficient understanding of the technical components of the internet to understand how attacks are mounted.  After developing that foundation, we will explore how states operate in the cyber domain and challenges with attribution and response. We will then progress to understanding the challenges facing defenders and how risk differs for government, companies, and individuals. The final section of the course will examine issues bringing those viewpoints into direct conflict such as the extent of government and intelligence community access to private companies. Throughout the course, students will examine specific breaches and case studies for their significance to our understanding of cybersecurity risks.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate
+Schedule Types: Seminar
+
+Security Studies Department",secur,Fall 2018, Cybersecurity Strategy
+STIA 391 ,"Cybersecurity has become an issue of national and international security significance. The growth of a nearly ubiquitous global information infrastructure and the availability of affordable, sophisticated information technologies has created an environment with potentially profound effects on the economic, financial, political, diplomatic, military, and technological affairs that shape our world, as well as on social networks that shape and the electoral systems that record our political preferences. Information has become, perhaps, our most valuable resource. Stealing it, altering it, and protecting it have become a high-stakes endeavor. Information technology governs many of our infrastructures, even as its use may become the arbiter of military power. The global information infrastructure also represents a common information environment for citizens, diplomats, businesses, academia, social movements, and intelligence. This course will explore the varying concepts of the use of cybersecurity, examining the policy implications of its use, its relationship to state sovereignty, its implications for the global private sector, its effects on a nation's critical infrastructure, and its potential effects on the balance of power among nation-states. The course is taught by Samuel Visner, STIA Adjunct Professor, Director of the National Cybersecurity Federally Funded Research and Development Center at MITRE (National Cybersecurity FFRDC), former Chief of Signals Intelligence Programs at the National Security Agency, and Georgetown University, SFS 1976.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Lecture, Seminar
+
+Science, Tech, & Int'l Affairs Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Fall 2018, Cybersecurity: Policy/Tech/Ops
+STIA 420 ,"Cybersecurity Conflict and Policy is an introduction to the fights—both policy and literal—to control cyberspace, secure data, and ultimately define the relationship between citizen and government. Beginning with the nation state and working our way to the individual, the class will take a technology-based approach to mapping the landscape of cybersecurity law and policy. Over the semester, students will develop a baseline understanding of the technology, relevant actors, policy responses, and stakes underlying the most pressing and consequential cybersecurity conflicts. The semester will break down into six primary cybersecurity focus areas: (1) the technology fundamentals of network security, (2) the threat landscape, (3) the private sector, (4) national security, (5) law enforcement, and (6) privacy and the rule of law. Classes will explore the many tensions between privacy and security, as well as the challenges the government and private sector face in defending against a vast array of bad actors with many tools. We will cover topics ranging from cyber warfare, cybercrime, and surveillance—and how to tell the difference—as well as emerging threats and allocations of private and public responsibility. At the end of the semester, students will have a basic understanding of computer and network technology, will be able to identify the major open questions in cybersecurity policy, and have a language and context for addressing those policy challenges.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Science, Tech, & Int'l Affairs Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Fall 2018, Cybersecurity Confl + Policy
+UNXD 437 ," This seminar is designed to develop students academically and professionally in the practice of cybersecurity. It provides students with an understanding of topics including the requirements of individuals who want security clearances, Federal cybersecurity regulations and standards, the respective roles of the Department of Homeland Security and the National Security Agency, the role the Federal Government plays when securing government and civilian networks, the role of state governments with respect to privacy and security, and the policy controls and best practices to protect networks and systems. The seminar builds community among the faculty, graduate students, and undergraduate students. The seminar consists of presentations from faculty, students, and cybersecurity professionals in industry, academia, and the public sector. Students will also design course materials to educate non-technical people, such as political appointees, senior executive staff, and the general public on issues of cybersecurity. Class meetings may also occur off campus at Congressional offices, Executive offices, select agencies (e.g., DHS, NSA, NGA, DISA), and partner campuses of other local universities. These experiences provide students with opportunities to strengthen professional communication skills, understand the practice of cybersecurity, and build professional relationships with professionals and peers working in cybersecurity.
+
+1.000 Credit hours
+1.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Univ Wide cross disc courses Department",secur,Fall 2018, Cybersecurity Seminar
+UNXD 438 ," This seminar is part of a two-course sequence that teaches students the common forms of professional writing and presentation required for the field of cybersecurity. In the fall seminar, students master specific techniques and strategies that let them to clarify a document’s purpose; design pages for readers who scan; and edit documents to ensure logical organization, flow, effective tone, clarity, concision, and correctness. In the spring seminar, students proceed through three writing challenges based on documents used in the workplace. To complete each writing challenge, students study models of the document type; hear from working professionals who have mastered the document type; complete numerous drafts; refine their drafts with peers; and review their drafts. The final writing assignment of the spring seminar involves reflecting on the knowledge gained from the presentations in the Cybersecurity Seminar and summarizing current practice in cybersecurity in the public sector. 
+
+1.000 Credit hours
+1.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Univ Wide cross disc courses Department",secur,Fall 2018, Cybersecurity Writing Seminar
+LAWG 2004 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Spring 2019, Biosecurity and the Law
+LAWG 2052 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Lecture, Seminar
+
+Law (Graduate) Department",secur,Spring 2019, Cybersecurity Law
+LAWG 3038 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Spring 2019, Biosecurity and the Law
+LAWG 3066 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Spring 2019, Cybersecurity Law & Policy
+LAWJ 2004 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Spring 2019, Biosecurity and the Law
+LAWJ 3038 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Spring 2019, Biosecurity and the Law
+LAWJ 3066 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Spring 2019, Cybersecurity Law & Policy
+MICB 803 ,"This class will explore key elements of biosafety, biosecurity and biodefense. We will discuss how the past has influenced aspects of each discipline while focusing our efforts on their evolution in the current health security landscape.
+2.000 Credit hours
+2.000 Lecture hours
+
+Levels: MN or MC Graduate
+Schedule Types: Lecture
+
+Microbiology Department",secur,Spring 2019," Biosafety,Biosecurity&Biodefen"
+MSFS 556 ,"Cybersecurity has emerged as one of the most significant international security and economic risks today. The headlines speak volumes about the import of the issue. Cyber attacks have caused catastrophic damage to critical infrastructure and businesses. Top cybersecurity experts now say, “There are two types of companies: those that know they have been breached and those that don’t.” The cyber-enabled theft of intellectual property and trade secrets has been called “the greatest transfer of wealth in history.”
+Due to the evolving threats and increasingly significant legal, financial, and reputational consequences associated with cyber attacks, it is necessary for businesses and government organizations to establish formal processes for preventing, mitigating, and responding to cyber-attacks. It is increasingly important for students of international affairs to understand both the policy implications and technical aspects of cybersecurity.
+This class will take a comprehensive approach to understanding cybersecurity. The course will: (1) provide students a technical understanding of the methods attackers use to damage, disrupt, or gain unauthorized access to computer systems and electronic communications networks; (2) focus on key cyber actors and groups who exploit and defend computer networks; (3) examine the policies, laws, and frameworks created by businesses, governments and the international community to mitigate and manage the damage caused by cyber attacks; and (4) give students exposure to professionals in the field tasked with managing cyber threats for government agencies and corporations where the stakes are highest. 
+Some of the topics that will be covered include: U.S. and international cyber policies, strategy, law, standards, and governance structures; the investigation of cyber crimes and the challenge of attribution; advanced threat actors and their techniques; the rise of state and non-state actors and the concept of cyber war; privacy; cyber risk management and incident management; critical infrastructure protection; and hardware and software supply chain integrity. Students will also participate in a cybersecurity tabletop exercise.
+The skills students will gain in this class include: greater IT fluency and understanding of networking basics; familiarity with the cyber risk environment and an understanding of the operational challenges organizations face managing cyber risk; understanding of the scope and impact of cyber threats and of the basic ways to reduce exposure to and mitigate cyber threats. The class will consist of a mix of lectures and discussions and will make use of occasional guest speakers. The course is appropriate for students who are interested in careers at government agencies that are involved in cybersecurity policy or have a role in protecting government networks or for students who may go on to management or technology-focused positions in the private sector. Students will be evaluated based on class participation, a policy memo, performance in the tabletop exercise, a take-home midterm and a take-home final.
+
+3.000 Credit hours
+3.000 Lecture hours
+0.000 Lab hours
+
+Levels: MN or MC Graduate, Juris Doctor
+Schedule Types: Seminar
+
+MS in Foreign Service Department",secur,Spring 2019, Cybersecurity: Bus/Gov/Int Com
+SEST 669 ," This foundational idea for this class is that, in order to understand the policy implications of a technology, it is necessary to get a hands-on appreciation for how that technology works. In this class, students will gain an appreciation for the basics of cyber security to help them understand and apply their knowledge to policy questions of the day. Class instruction topics include: packet-sniffing, encryption, social engineering, exploits & implants, incident response, computer forensics, attribution, and personal security. For each of these topics, we will examine relevant academic literature, look at case studies, do in-class demos, and give students a chance to get hands-on experience with the technology. We will also discuss the policy implications of each technical topic. 
+
+No background in computer science is necessary for this class, though you should be willing to push yourself out of your technical comfort zone and be persistent in learning new skills. By the end of the class, with the right amount of effort, you will be able to have a good understanding of some of the key technical ideas that animate much of the cybersecurity discussion. 
+
+Students will be graded on six homework assignments, each giving them a chance to put a newly-learned technical skill into practice. There will also be a mid-term exam to ensure understanding of key concepts and a final paper that connects the in-class topics to broader policy matters. 
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate
+Schedule Types: Lecture, Seminar
+
+Security Studies Department",secur,Spring 2019, Hands
+STIA 391 ,"Cybersecurity has become an issue of national and international security significance. The growth of a nearly ubiquitous global information infrastructure and the availability of affordable, sophisticated information technologies has created an environment with potentially profound effects on the economic, financial, political, diplomatic, military, and technological affairs that shape our world, as well as on social networks that shape and the electoral systems that record our political preferences. Information has become, perhaps, our most valuable resource. Stealing it, altering it, and protecting it have become a high-stakes endeavor. Information technology governs many of our infrastructures, even as its use may become the arbiter of military power. The global information infrastructure also represents a common information environment for citizens, diplomats, businesses, academia, social movements, and intelligence. This course will explore the varying concepts of the use of cybersecurity, examining the policy implications of its use, its relationship to state sovereignty, its implications for the global private sector, its effects on a nation's critical infrastructure, and its potential effects on the balance of power among nation-states. The course is taught by Samuel Visner, STIA Adjunct Professor, Director of the National Cybersecurity Federally Funded Research and Development Center at MITRE (National Cybersecurity FFRDC), former Chief of Signals Intelligence Programs at the National Security Agency, and Georgetown University, SFS 1976.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Lecture, Seminar
+
+Science, Tech, & Int'l Affairs Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Spring 2019, Cybersecurity: Policy/Tech/Ops
+STIA 420 ,"Cybersecurity Conflict and Policy is an introduction to the fights—both policy and literal—to control cyberspace, secure data, and ultimately define the relationship between citizen and government. Beginning with the nation state and working our way to the individual, the class will take a technology-based approach to mapping the landscape of cybersecurity law and policy. Over the semester, students will develop a baseline understanding of the technology, relevant actors, policy responses, and stakes underlying the most pressing and consequential cybersecurity conflicts. The semester will break down into six primary cybersecurity focus areas: (1) the technology fundamentals of network security, (2) the threat landscape, (3) the private sector, (4) national security, (5) law enforcement, and (6) privacy and the rule of law. Classes will explore the many tensions between privacy and security, as well as the challenges the government and private sector face in defending against a vast array of bad actors with many tools. We will cover topics ranging from cyber warfare, cybercrime, and surveillance—and how to tell the difference—as well as emerging threats and allocations of private and public responsibility. At the end of the semester, students will have a basic understanding of computer and network technology, will be able to identify the major open questions in cybersecurity policy, and have a language and context for addressing those policy challenges.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Science, Tech, & Int'l Affairs Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Spring 2019, Cybersecurity Confl + Policy
+UNXD 437 ," This seminar is designed to develop students academically and professionally in the practice of cybersecurity. It provides students with an understanding of topics including the requirements of individuals who want security clearances, Federal cybersecurity regulations and standards, the respective roles of the Department of Homeland Security and the National Security Agency, the role the Federal Government plays when securing government and civilian networks, the role of state governments with respect to privacy and security, and the policy controls and best practices to protect networks and systems. The seminar builds community among the faculty, graduate students, and undergraduate students. The seminar consists of presentations from faculty, students, and cybersecurity professionals in industry, academia, and the public sector. Students will also design course materials to educate non-technical people, such as political appointees, senior executive staff, and the general public on issues of cybersecurity. Class meetings may also occur off campus at Congressional offices, Executive offices, select agencies (e.g., DHS, NSA, NGA, DISA), and partner campuses of other local universities. These experiences provide students with opportunities to strengthen professional communication skills, understand the practice of cybersecurity, and build professional relationships with professionals and peers working in cybersecurity.
+
+1.000 Credit hours
+1.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Univ Wide cross disc courses Department",secur,Spring 2019, Cybersecurity Seminar
+UNXD 438 ," This seminar is part of a two-course sequence that teaches students the common forms of professional writing and presentation required for the field of cybersecurity. In the fall seminar, students master specific techniques and strategies that let them to clarify a document’s purpose; design pages for readers who scan; and edit documents to ensure logical organization, flow, effective tone, clarity, concision, and correctness. In the spring seminar, students proceed through three writing challenges based on documents used in the workplace. To complete each writing challenge, students study models of the document type; hear from working professionals who have mastered the document type; complete numerous drafts; refine their drafts with peers; and review their drafts. The final writing assignment of the spring seminar involves reflecting on the knowledge gained from the presentations in the Cybersecurity Seminar and summarizing current practice in cybersecurity in the public sector. 
+
+1.000 Credit hours
+1.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Univ Wide cross disc courses Department",secur,Spring 2019, Cybersecurity Writing Seminar
+LAWG 2004 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Summer 2019, Biosecurity and the Law
+LAWG 2052 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Lecture, Seminar
+
+Law (Graduate) Department",secur,Summer 2019, Cybersecurity Law
+LAWG 3038 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Summer 2019, Biosecurity and the Law
+LAWG 3066 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (Graduate) Department",secur,Summer 2019, Cybersecurity Law & Policy
+LAWJ 2004 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Summer 2019, Biosecurity and the Law
+LAWJ 3038 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Summer 2019, Biosecurity and the Law
+LAWJ 3066 ,"2.000 Credit hours
+2.000 Lecture hours
+
+Levels: Law Doctorate, Master of Laws, Master of Laws (2), Juris Doctor, Non-degree
+Schedule Types: Seminar
+
+Law (JD) Department",secur,Summer 2019, Cybersecurity Law & Policy
+MICB 803 ,"This class will explore key elements of biosafety, biosecurity and biodefense. We will discuss how the past has influenced aspects of each discipline while focusing our efforts on their evolution in the current health security landscape.
+2.000 Credit hours
+2.000 Lecture hours
+
+Levels: MN or MC Graduate
+Schedule Types: Lecture
+
+Microbiology Department",secur,Summer 2019," Biosafety,Biosecurity&Biodefen"
+MSFS 556 ,"Cybersecurity has emerged as one of the most significant international security and economic risks today. The headlines speak volumes about the import of the issue. Cyber attacks have caused catastrophic damage to critical infrastructure and businesses. Top cybersecurity experts now say, “There are two types of companies: those that know they have been breached and those that don’t.” The cyber-enabled theft of intellectual property and trade secrets has been called “the greatest transfer of wealth in history.”
+Due to the evolving threats and increasingly significant legal, financial, and reputational consequences associated with cyber attacks, it is necessary for businesses and government organizations to establish formal processes for preventing, mitigating, and responding to cyber-attacks. It is increasingly important for students of international affairs to understand both the policy implications and technical aspects of cybersecurity.
+This class will take a comprehensive approach to understanding cybersecurity. The course will: (1) provide students a technical understanding of the methods attackers use to damage, disrupt, or gain unauthorized access to computer systems and electronic communications networks; (2) focus on key cyber actors and groups who exploit and defend computer networks; (3) examine the policies, laws, and frameworks created by businesses, governments and the international community to mitigate and manage the damage caused by cyber attacks; and (4) give students exposure to professionals in the field tasked with managing cyber threats for government agencies and corporations where the stakes are highest. 
+Some of the topics that will be covered include: U.S. and international cyber policies, strategy, law, standards, and governance structures; the investigation of cyber crimes and the challenge of attribution; advanced threat actors and their techniques; the rise of state and non-state actors and the concept of cyber war; privacy; cyber risk management and incident management; critical infrastructure protection; and hardware and software supply chain integrity. Students will also participate in a cybersecurity tabletop exercise.
+The skills students will gain in this class include: greater IT fluency and understanding of networking basics; familiarity with the cyber risk environment and an understanding of the operational challenges organizations face managing cyber risk; understanding of the scope and impact of cyber threats and of the basic ways to reduce exposure to and mitigate cyber threats. The class will consist of a mix of lectures and discussions and will make use of occasional guest speakers. The course is appropriate for students who are interested in careers at government agencies that are involved in cybersecurity policy or have a role in protecting government networks or for students who may go on to management or technology-focused positions in the private sector. Students will be evaluated based on class participation, a policy memo, performance in the tabletop exercise, a take-home midterm and a take-home final.
+
+3.000 Credit hours
+3.000 Lecture hours
+0.000 Lab hours
+
+Levels: MN or MC Graduate, Juris Doctor
+Schedule Types: Seminar
+
+MS in Foreign Service Department",secur,Summer 2019, Cybersecurity: Bus/Gov/Int Com
+SEST 669 ," This foundational idea for this class is that, in order to understand the policy implications of a technology, it is necessary to get a hands-on appreciation for how that technology works. In this class, students will gain an appreciation for the basics of cyber security to help them understand and apply their knowledge to policy questions of the day. Class instruction topics include: packet-sniffing, encryption, social engineering, exploits & implants, incident response, computer forensics, attribution, and personal security. For each of these topics, we will examine relevant academic literature, look at case studies, do in-class demos, and give students a chance to get hands-on experience with the technology. We will also discuss the policy implications of each technical topic. 
+
+No background in computer science is necessary for this class, though you should be willing to push yourself out of your technical comfort zone and be persistent in learning new skills. By the end of the class, with the right amount of effort, you will be able to have a good understanding of some of the key technical ideas that animate much of the cybersecurity discussion. 
+
+Students will be graded on six homework assignments, each giving them a chance to put a newly-learned technical skill into practice. There will also be a mid-term exam to ensure understanding of key concepts and a final paper that connects the in-class topics to broader policy matters. 
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate
+Schedule Types: Lecture, Seminar
+
+Security Studies Department",secur,Summer 2019, Hands
+STIA 391 ,"Cybersecurity has become an issue of national and international security significance. The growth of a nearly ubiquitous global information infrastructure and the availability of affordable, sophisticated information technologies has created an environment with potentially profound effects on the economic, financial, political, diplomatic, military, and technological affairs that shape our world, as well as on social networks that shape and the electoral systems that record our political preferences. Information has become, perhaps, our most valuable resource. Stealing it, altering it, and protecting it have become a high-stakes endeavor. Information technology governs many of our infrastructures, even as its use may become the arbiter of military power. The global information infrastructure also represents a common information environment for citizens, diplomats, businesses, academia, social movements, and intelligence. This course will explore the varying concepts of the use of cybersecurity, examining the policy implications of its use, its relationship to state sovereignty, its implications for the global private sector, its effects on a nation's critical infrastructure, and its potential effects on the balance of power among nation-states. The course is taught by Samuel Visner, STIA Adjunct Professor, Director of the National Cybersecurity Federally Funded Research and Development Center at MITRE (National Cybersecurity FFRDC), former Chief of Signals Intelligence Programs at the National Security Agency, and Georgetown University, SFS 1976.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Lecture, Seminar
+
+Science, Tech, & Int'l Affairs Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Summer 2019, Cybersecurity: Policy/Tech/Ops
+STIA 420 ,"Cybersecurity Conflict and Policy is an introduction to the fights—both policy and literal—to control cyberspace, secure data, and ultimately define the relationship between citizen and government. Beginning with the nation state and working our way to the individual, the class will take a technology-based approach to mapping the landscape of cybersecurity law and policy. Over the semester, students will develop a baseline understanding of the technology, relevant actors, policy responses, and stakes underlying the most pressing and consequential cybersecurity conflicts. The semester will break down into six primary cybersecurity focus areas: (1) the technology fundamentals of network security, (2) the threat landscape, (3) the private sector, (4) national security, (5) law enforcement, and (6) privacy and the rule of law. Classes will explore the many tensions between privacy and security, as well as the challenges the government and private sector face in defending against a vast array of bad actors with many tools. We will cover topics ranging from cyber warfare, cybercrime, and surveillance—and how to tell the difference—as well as emerging threats and allocations of private and public responsibility. At the end of the semester, students will have a basic understanding of computer and network technology, will be able to identify the major open questions in cybersecurity policy, and have a language and context for addressing those policy challenges.
+
+3.000 Credit hours
+3.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Science, Tech, & Int'l Affairs Department
+
+Course Attributes:
+Mean Grade is Calculated",secur,Summer 2019, Cybersecurity Confl + Policy
+UNXD 437 ," This seminar is designed to develop students academically and professionally in the practice of cybersecurity. It provides students with an understanding of topics including the requirements of individuals who want security clearances, Federal cybersecurity regulations and standards, the respective roles of the Department of Homeland Security and the National Security Agency, the role the Federal Government plays when securing government and civilian networks, the role of state governments with respect to privacy and security, and the policy controls and best practices to protect networks and systems. The seminar builds community among the faculty, graduate students, and undergraduate students. The seminar consists of presentations from faculty, students, and cybersecurity professionals in industry, academia, and the public sector. Students will also design course materials to educate non-technical people, such as political appointees, senior executive staff, and the general public on issues of cybersecurity. Class meetings may also occur off campus at Congressional offices, Executive offices, select agencies (e.g., DHS, NSA, NGA, DISA), and partner campuses of other local universities. These experiences provide students with opportunities to strengthen professional communication skills, understand the practice of cybersecurity, and build professional relationships with professionals and peers working in cybersecurity.
+
+1.000 Credit hours
+1.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Univ Wide cross disc courses Department",secur,Summer 2019, Cybersecurity Seminar
+UNXD 438 ," This seminar is part of a two-course sequence that teaches students the common forms of professional writing and presentation required for the field of cybersecurity. In the fall seminar, students master specific techniques and strategies that let them to clarify a document’s purpose; design pages for readers who scan; and edit documents to ensure logical organization, flow, effective tone, clarity, concision, and correctness. In the spring seminar, students proceed through three writing challenges based on documents used in the workplace. To complete each writing challenge, students study models of the document type; hear from working professionals who have mastered the document type; complete numerous drafts; refine their drafts with peers; and review their drafts. The final writing assignment of the spring seminar involves reflecting on the knowledge gained from the presentations in the Cybersecurity Seminar and summarizing current practice in cybersecurity in the public sector. 
+
+1.000 Credit hours
+1.000 Lecture hours
+
+Levels: MN or MC Graduate, Undergraduate
+Schedule Types: Seminar
+
+Univ Wide cross disc courses Department",secur,Summer 2019, Cybersecurity Writing Seminar

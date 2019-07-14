@@ -9,3 +9,4 @@
 5. Temrs vs Years
 6. Do we search both undergraduate and graduate courses
 7. Pdf archived catalogs
+8. No courses that have combined key words, only those with 'secur' & 'privac' left
